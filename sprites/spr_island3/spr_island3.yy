@@ -1,5 +1,5 @@
 {
-    "id": "57c8d88f-0b77-49b5-946a-8af0df95328a",
+    "id": "9c22b4e3-fab7-400f-b39f-8df1a0635c79",
     "modelName": "GMSprite",
     "mvc": "1.12",
     "name": "spr_island3",
@@ -13,27 +13,26 @@
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
-    "edgeFiltering": false,
     "frames": [
         {
-            "id": "c1580320-5bd3-448a-843a-de8aea1c5e31",
+            "id": "59e16849-0ddc-4221-afe4-051c7f06e328",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "57c8d88f-0b77-49b5-946a-8af0df95328a",
+            "SpriteId": "9c22b4e3-fab7-400f-b39f-8df1a0635c79",
             "compositeImage": {
-                "id": "58be8a99-0f50-4255-9455-38530accf1cd",
+                "id": "2fbf093e-e36d-43f1-b03e-6ea0436e2cfd",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "c1580320-5bd3-448a-843a-de8aea1c5e31",
+                "FrameId": "59e16849-0ddc-4221-afe4-051c7f06e328",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "d0fa1a0a-37d8-442b-8880-c1cf7805e041",
+                    "id": "20d65f12-24db-46db-afb7-58596d909e92",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "c1580320-5bd3-448a-843a-de8aea1c5e31",
-                    "LayerId": "568bbdc4-bb3c-45ed-af37-839b1d2eb53c"
+                    "FrameId": "59e16849-0ddc-4221-afe4-051c7f06e328",
+                    "LayerId": "fa5db4e5-74a8-4f2a-8b11-9fe0e9625147"
                 }
             ]
         }
@@ -43,10 +42,10 @@
     "height": 65,
     "layers": [
         {
-            "id": "568bbdc4-bb3c-45ed-af37-839b1d2eb53c",
+            "id": "fa5db4e5-74a8-4f2a-8b11-9fe0e9625147",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "57c8d88f-0b77-49b5-946a-8af0df95328a",
+            "SpriteId": "9c22b4e3-fab7-400f-b39f-8df1a0635c79",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
@@ -55,7 +54,6 @@
         }
     ],
     "origin": 0,
-    "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,

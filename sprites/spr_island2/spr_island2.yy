@@ -1,5 +1,5 @@
 {
-    "id": "e1771f4e-5bd0-4394-9c7f-41a969784333",
+    "id": "f713a05b-cca0-487e-8d3d-092039acb5af",
     "modelName": "GMSprite",
     "mvc": "1.12",
     "name": "spr_island2",
@@ -13,27 +13,26 @@
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
-    "edgeFiltering": false,
     "frames": [
         {
-            "id": "308e90b8-0ee7-47d3-8b7e-8099f406b3af",
+            "id": "8acadc42-f595-485f-a2f3-965d199f811a",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "e1771f4e-5bd0-4394-9c7f-41a969784333",
+            "SpriteId": "f713a05b-cca0-487e-8d3d-092039acb5af",
             "compositeImage": {
-                "id": "c9f64c11-7bd1-4542-b44c-fbd7325a075e",
+                "id": "e7d3955f-6233-4092-8d40-8a72ae710beb",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "308e90b8-0ee7-47d3-8b7e-8099f406b3af",
+                "FrameId": "8acadc42-f595-485f-a2f3-965d199f811a",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "a43a24cf-b12d-4545-998c-a3948c9fb0a0",
+                    "id": "17334ea7-4518-4968-bb1d-5f94865404bc",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "308e90b8-0ee7-47d3-8b7e-8099f406b3af",
-                    "LayerId": "76da1177-aea2-45ff-85d0-3c5f6ef81444"
+                    "FrameId": "8acadc42-f595-485f-a2f3-965d199f811a",
+                    "LayerId": "ff1cd0a4-b160-4a3b-896a-964550f38935"
                 }
             ]
         }
@@ -43,10 +42,10 @@
     "height": 65,
     "layers": [
         {
-            "id": "76da1177-aea2-45ff-85d0-3c5f6ef81444",
+            "id": "ff1cd0a4-b160-4a3b-896a-964550f38935",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "e1771f4e-5bd0-4394-9c7f-41a969784333",
+            "SpriteId": "f713a05b-cca0-487e-8d3d-092039acb5af",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
@@ -55,7 +54,6 @@
         }
     ],
     "origin": 0,
-    "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
